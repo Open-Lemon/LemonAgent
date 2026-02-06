@@ -110,7 +110,8 @@ LemonAgent作为上述“三位一体”设计范式的核心落地载体，是�
    --processes 1
    ```
 # TODO List
-* [ ] 代码即将推出
+* [ ] 代码正在审查中，很快推出
+* [ ] 技术报告已经提交至arXiv，并将很快发布。
 
 # 致谢
 * 工作中部分工具代码参考自Camel-AI、Miroflow、Co-sight

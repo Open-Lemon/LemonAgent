@@ -111,7 +111,8 @@ With these designs, LemonAgent can serve both as a **reference implementation fo
    ```
 
 # TODO List
-* [ ] Code comming soon
+* [ ] Code is currently under internal review, comming soon
+* [ ] Technical Report is under submission to arXiv and will be released soon.
 
 # Acknowledgement
 * Some of the code in the toolkits is adapted from **Camel-AI, Miroflow, Co-sight**
