@@ -117,5 +117,5 @@ LemonAgent作为上述“三位一体”设计范式的核心落地载体，是�
 * 工作中部分工具代码参考自Camel-AI、Miroflow、Co-sight
 
 # Project Co-developer
-**贡献者：** Haipeng Jiang, Kailong Ren, Zimo Yin, Zhetao Sun, Xin Gan, Guangyi Lv, Ming He, Peng Wang, Congli Yin, Hong Pan, Changwen Zhang, Shan Tong, Zhengyu Xu, Zeping Chen, Yubin Huangfu, Yanzhi Xu, Xing Su, Qin Feng, Dong An, Jiangping Fan
+**贡献者：** Haipeng Jiang, Kailong Ren, Zimo Yin, Zhetao Sun, Xin Gan, Guangyi Lv, Ming He, Peng Wang, Congli Yin, Hong Pan, Changwen Zhang, Shan Tong, Zhengyu Xu, Zeping Chen, Yubin Huangfu, Yanzhi Xu, Xing Su, Qin Feng, Dong An, Jianping Fan
 **所属机构：** Lenovo Research AILab of Lenovo CTO Org
