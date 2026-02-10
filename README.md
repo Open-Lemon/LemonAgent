@@ -116,8 +116,18 @@ With these designs, LemonAgent can serve both as a **reference implementation fo
 
 # Acknowledgement
 * Some of the code in the toolkits is adapted from **Camel-AI, Miroflow, Co-sight**
-
-
+# Citation
+```bibtex
+@misc{jiang2026lemonagenttechnicalreport,
+      title={Lemon Agent Technical Report}, 
+      author={Haipeng Jiang and Kailong Ren and Zimo Yin and Zhetao Sun and Xin Gan and Guangyi Lv and Ming He and Peng Wang and Congli Yin and Hong Pan and Changwen Zhang and Shan Tong and Zhengyu Xu and Zeping Chen and Yubin Huangfu and Yanzhi Xu and Xing Su and Qin Feng and Dong An and Jianping Fan},
+      year={2026},
+      eprint={2602.07092},
+      archivePrefix={arXiv},
+      primaryClass={cs.MA},
+      url={https://arxiv.org/abs/2602.07092}, 
+}
+```
 
 # Project Co-developer
 
